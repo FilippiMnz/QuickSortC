@@ -1,0 +1,3 @@
+C:/Users/imper/CLionProjects/QuickSortC/cmake-build-debug/CMakeFiles/QuickSortC.dir
+C:/Users/imper/CLionProjects/QuickSortC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/imper/CLionProjects/QuickSortC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
